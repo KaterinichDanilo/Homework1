@@ -2,6 +2,7 @@ package h;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
+        /*
         printThreeWords();
 
         checkSumSign(-4, 2);
@@ -9,6 +10,9 @@ public class HomeWorkApp {
         printColor(10);
 
         compareNumbers(2, 4);
+         */
+
+
     }
 
     public static void printThreeWords(){
