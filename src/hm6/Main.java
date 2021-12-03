@@ -10,5 +10,7 @@ public class Main {
 
         dog1.run(100);
         dog1.swim(10);
+
+        System.out.println(Dog.numberDogs);
     }
 }
